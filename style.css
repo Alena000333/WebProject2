@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+   a{
+    text-decoration: none;
+    color: black;
+   }
+   .top__nav ul,
+   .top__logo ul{
+    list-style: none;
+    display: flex;
+   }
+   .nav__home{
+    color: brown;
+   }
+.top__header{
+    margin: 51px 375px;
+}
+.top__nav a{
+        padding:10px;
+}
+.top__nav ul{
+    margin: 51px 0;
+}
+.top__info h1{
+    margin: 89px 1025px 17px 373px;
+}
+.top__info p{
+    margin: 17px 1025px 102px 373px;
+}
+.top__buttons{
+    
+    padding-top: 37px;
+    padding-bottom: 162px;
+    padding-left: 375px;
+
+}
+.watch{
+    padding-left: 72px;
+    padding-bottom: 172px;
+    padding-right: 259px;
+    padding-top: 52px;
+}
+
+.top__img{
+    margin: 82.71px 439.25px 162.45px 40.94px ;
+}
+.top__logo,
+.top__buttons,
+.watch
+{
+    display: inline-block;
+}
+.top__logo{
+    
+    padding-left: 345px;
+    padding-right: 375px;
+    padding-top: 97px;
+    padding-bottom: 96px;
+
+}
+.top__logo img{
+    padding-right: 20px;
+}
